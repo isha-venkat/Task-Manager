@@ -34,3 +34,9 @@ This project is a simple task management system built as part of an Object-Orien
 
 ### Testing
 Unit tests are included to verify that adding and removing tasks works as expected.
+
+### Contributing
+This is a coursework project, and contributions are not currently being accepted. If you wish to implement additional features or improvements, feel free to fork this repository.
+
+### License
+This project is for educational purposes and is not licensed for commercial use.
